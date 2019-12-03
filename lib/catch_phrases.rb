@@ -8,3 +8,6 @@ def toadstool
   puts status
 end
 
+def link
+  old_man_in_cave = "It's Dangerous To Go Alone! Take This."
+end
